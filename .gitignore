@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Large or regenerable data
+data/raw/*.mid
+data/raw/*.midi
+data/raw/main/
+data/processed/*.npz
+data/processed/*.json
+
+# Model artefacts
+models/*.pt
+
+# Generated output
+outputs/*.mid
+outputs/*.wav
+outputs/*.mp3
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store

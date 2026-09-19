@@ -442,3 +442,6 @@ music-generation-with-ai/
   was actually produced by running the training step.
 
 For any questions or issues, open a GitHub issue.
+
+## Author
+Charles Akinnurun
